@@ -13,5 +13,5 @@ npm install -g @vscode/vsce
 vsce package
 
 # Install as extension
-code --install-extension ryan-vscode-theme-0.0.1.vsix
+code --install-extension ryan-vscode-theme-1.0.0.vsix
 ```
