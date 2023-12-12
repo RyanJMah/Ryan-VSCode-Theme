@@ -2,7 +2,7 @@
     "name": "ryan-vscode-theme",
     "displayName": "Ryan VSCode Theme",
     "description": "My personal vscode theme",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.85.0"
     },
