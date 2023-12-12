@@ -1,0 +1,26 @@
+{
+    "name": "ryan-vscode-theme",
+    "displayName": "Ryan VSCode Theme",
+    "description": "My personal vscode theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.85.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ryan VSCode Theme (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-color-theme.json"
+            },
+            {
+                "label": "Ryan VSCode Theme (Darker)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/darker-color-theme.json"
+            }
+        ]
+    }
+}
